@@ -268,5 +268,9 @@ public class MyClass {
             System.out.println("jbdjdjnj");
         }while(true);*/
 
+        //in - InputStream(System class)
+        //out - PrintStream (System class)
+        //println, print(Printstream - println)
+        
     }
 }
